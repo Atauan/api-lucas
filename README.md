@@ -1,5 +1,3 @@
-Claro! Aqui está a implementação ajustada e formatada adequadamente para ser copiada e colada diretamente no seu repositório GitHub.
-
 ### Estrutura de Diretórios
 
 - src/
@@ -244,7 +242,3 @@ export class GetUser implements NestMiddleware {
 ```
 
 ### Finalizando
-
-Agora, você pode copiar e colar essas seções diretamente em seus arquivos do repositório GitHub. Certifique-se de seguir as melhores práticas ao fazer commits e também de documentar seu projeto adequadamente.
-
-Se precisar de mais ajuda em outros aspectos do projeto, sinta-se à vontade para perguntar!
